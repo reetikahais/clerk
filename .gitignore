@@ -26,6 +26,10 @@ dist-ssr
 # Build output
 build/
 
+# .NET build artifacts
+bin/
+obj/
+
 # Environment variables
 .env
 .env.local
